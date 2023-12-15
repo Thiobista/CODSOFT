@@ -50,4 +50,7 @@
     form input.operator{
         color: #33ffd8;
     }
+    .operatorde{
+	    color:red;
+    }
 </style>
