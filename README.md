@@ -10,19 +10,19 @@ Overall, the calculator web development project is a practical and handy tool th
 
 
 
-*The travel landing page web development project will be built using HTML, CSS, and JavaScript. HTML will be used to structure the content and layout of the landing page, while CSS will be used for styling and creating visually appealing designs. JavaScript will be utilized to enhance user interactions, such as creating smooth scrolling effects or implementing interactive elements.
+*The travel landing page web development project built using HTML, CSS, and JavaScript. HTML used to structure the content and layout of the landing page, while CSS used for styling and creating visually appealing designs. JavaScript utilized to enhance user interactions, such as creating smooth scrolling effects or implementing interactive elements.
 
 Overall, the travel landing page web development project aims to create an enticing and user-friendly website that inspires users to explore different travel destinations and ultimately book their dream vacations.
 
 
-*The portfolio web development project is a showcase website that highlights the skills, projects, and accomplishments of a web developer. The purpose of this website is to create a professional online presence and attract potential clients or employers.The main objective of this project is to create a visually appealing and user-friendly portfolio website that effectively showcases the web developer's work and skills.
+*The portfolio web development project is a showcase website that highlights the skills, projects, and accomplishments of a person. The purpose of this website is to create a professional online presence and attract potential clients or employers.The main objective of this project is to create a visually appealing and user-friendly portfolio website that effectively showcases the person's work and skills.
 
-The portfolio website will include sections such as an About Me page, where the developer can introduce themselves and provide background information. It will also include a Projects page, where the developer can showcase their past work, including images, descriptions, and links to live websites or GitHub repositories. Additionally, the website may include sections for Skills, Education, Experience, and Contact information.
+The portfolio website include sections such as an About Me page, where the person can introduce themselves and provide background information. It also include a Projects page, where the person can showcase their past work, including images, descriptions, and links to live websites or GitHub repositories. Additionally, the website may include sections for Skills, Education, Experience, and Contact information.
 
 Overall, the portfolio web development project aims to create a professional and visually appealing website that effectively showcases the web developer's skills, projects, and experience, ultimately attracting potential clients or employers.
 
 
-
+*The tribute page web development project is  a visually captivating and interactive tribute page that pays homage to this iconic movie called Titanic directed by James Cameron.
 
 
 
