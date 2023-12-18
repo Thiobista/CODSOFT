@@ -62,7 +62,7 @@ Step 5: Make further modifications (optional)
 By following these steps, you should be able to set up and run web development projects locally on your computer.
 
 
-If you want to reach out me:
+If you want to reach out to me:
 LinkedIn:www.linkedin.com/in/thiobistagedefaw
 
 Email:thiobista0gedefaw@gmail.com
