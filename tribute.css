@@ -1,0 +1,60 @@
+  body {
+            background-color: #727777;
+            margin: 20%;
+        }
+ 
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px rgb(75, 73, 73);
+            font-size: 7vh;
+            margin-top: -200px;
+        }
+        img {
+            display: inline-block;
+            width: 100%;
+            margin-bottom: -5px;
+        }
+        
+      
+        h1.title-APJ {
+            font-size: 35px;
+            color: rgb(73, 141, 150);
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+       
+
+
+
+
+
+        .btn{
+        display: inline-block;
+        padding: 13px 40px;
+        background: rgb(5, 77, 3);
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+        border: 2px solid transparent;
+        border-radius: 5px;
+        transition: all .50s ease;
+        cursor: pointer;
+    }
+    .btn:hover{
+        transform: translateX(10px);
+        border: 2px solid black;
+        background: transparent;
+        color: rgb(7, 7, 7);
+    }
+
+
+span{
+  color: rgb(73, 141, 150);
+}
+fieldset{
+    border: none;
+    background-color: rgb(60, 61, 61);
+    color: aliceblue;
+}
+
+
